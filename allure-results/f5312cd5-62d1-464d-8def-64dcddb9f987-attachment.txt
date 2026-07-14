@@ -1,0 +1,4 @@
+Running once before all tests
+Navigated to page before each tests
+First test Ran
+Cleaning up after each test
